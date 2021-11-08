@@ -1,0 +1,7 @@
+-job schedule = penjadwalan suatu job
+-job queue = 
+-middleware = penengah dalam pemanggilan request dan respons
+-session = penyimpanan data pada server bersipat sementara
+-mail = buat pemanggilan request pesan, biasanya menggunakan mailtrap
+-locale = lokal atau tidak dapat di akses luas
+-hosting= mempublish suatu website supaya menjadi global/dapat digunakan semua orang 
